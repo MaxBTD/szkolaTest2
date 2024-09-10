@@ -1,3 +1,5 @@
 Wazna informacja
 Druga wazna informacja - od GitHub
 Trzecia wazna informacja - od PC
+
+Zad - https://github.com/KacperZSP3/git_tasks.git
